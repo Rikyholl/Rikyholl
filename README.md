@@ -1,4 +1,6 @@
 ![header](https://github.com/Rikyholl/Rikyholl/blob/main/assets/header.png)
-About me
+
+
+## Я начинающий Frontend-разработчик. Занимаюсь версткой сайтов, а также изучаю JS.
 
 Follow me
